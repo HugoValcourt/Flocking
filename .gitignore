@@ -1,0 +1,7 @@
+Blit3Dv3.sdf
+Debug\*
+Release\*
+Blit3Dv3\Debug\*
+Blit3Dv3\Release\*
+Blit3Dv3\*.log
+.vs\*
